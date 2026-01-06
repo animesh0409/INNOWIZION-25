@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This repository contains the project developed for **InnowizIon’25**, an innovation-driven event focused on **problem solving, technology, and real-world impact**.
+This repository contains the project developed for **Innowizion’25**, an innovation-driven event focused on **problem solving, technology, and real-world impact**.
 
 The project aims to deliver a **practical, scalable, and user-centric solution** by applying modern technologies, logical design, and efficient implementation.
 
