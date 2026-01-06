@@ -54,7 +54,7 @@ innowizion25/
 
 ## 🛠 Technologies Used
 
-* **Programming Language:** HTML/ CSS / Javascript *
+ **Programming Language:** HTML/ CSS / Javascript 
 * **Tools & Libraries:**
 
   * Data processing & logic implementation
