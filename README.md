@@ -34,7 +34,7 @@ innowizion25/
 │
 ├── src/                  # Source code files
 ├── assets/               # Images / static resources
-├── data/                 # Dataset (if applicable)
+├── data/                 # Dataset
 ├── docs/                 # Documentation / presentation
 ├── requirements.txt      # Dependencies
 └── README.md             # Project documentation
@@ -54,11 +54,11 @@ innowizion25/
 
 ## 🛠 Technologies Used
 
-* **Programming Language:** Python / Java / C++ / Web Tech *(as applicable)*
+* **Programming Language:** HTML/ CSS / Javascript *
 * **Tools & Libraries:**
 
   * Data processing & logic implementation
-  * UI / CLI (if applicable)
+  * UI / CLI
 * **Concepts:**
 
   * Problem Solving
@@ -85,10 +85,8 @@ pip install -r requirements.txt
 ### Step 3: Run the Project
 
 ```bash
-python main.py
+index.html
 ```
-
-*(Modify commands based on your tech stack)*
 
 ---
 
