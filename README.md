@@ -76,7 +76,7 @@ pip install -r requirements.txt
 ### Step 3: Run the Project
 
 ```bash
-python main.py
+index.html
 ```
 
 ## 📈 Expected Outcome
